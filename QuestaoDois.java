@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // 2. Crie um programa que lê 6 valores inteiros e, em seguida, mostre na tela os valores lidos. 
 
-public class questaoDois {
+public class QuestaoDois {
     public static void main(String[] args) {
  
         Scanner scanner = new Scanner(System.in);

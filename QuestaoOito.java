@@ -1,7 +1,7 @@
 import java.util.Scanner;
 // 8. Crie um programa que le 6 valores inteiros e, em seguida, mostre na tela os valores lidos na ordem inversa.
 
-public class questaoOito {
+public class QuestaoOito {
     public static void main(String[] args) {
     
         int[] valores = new int[6];

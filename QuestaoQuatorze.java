@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 // 14. Faça um programa que leia um vetor de 10 posic¸oes e verifique se existem valores iguais e os escreva na tela
 
-public class questaoQuatorze {
+public class QuestaoQuatorze {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] vetor = new int[10];

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // 27. Leia 10 numeros inteiros e armazene em um vetor. Em seguida escreva os elementos que sao primos e suas respectivas posições no vetor.
 
-public class questaoVinteSete {
+public class QuestaoVinteSete {
   public static void main(String[] args) {
         int[] vetor = new int[10];
         Scanner scanner = new Scanner(System.in);

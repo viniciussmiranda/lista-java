@@ -3,7 +3,7 @@ import java.util.HashSet;
 
 // 15. Leia um vetor com 20 numeros inteiros. Escreva os elementos do vetor eliminando elementos repetidos
 
-public class questaoQuinze {
+public class QuestaoQuinze {
     public static void main(String[] args) {
         int[] vetor = new int[20];
         Scanner scanner = new Scanner(System.in);
